@@ -151,3 +151,7 @@ consumer.subscribe("orders", handle_event)
 
 <img width="1536" height="1024" alt="production-grade event-driven system" src="https://github.com/user-attachments/assets/b92b14c7-d774-4a4c-bebf-ec8f4c0fde68" />
 
+## Help Links
+
+> 1. https://www.confluent.io/learn/event-driven-architecture/
+> 2. https://aws.amazon.com/what-is/eda/
