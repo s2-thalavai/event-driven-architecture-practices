@@ -1,6 +1,4 @@
-<img width="1536" height="1024" alt="production-grade event-driven system" src="https://github.com/user-attachments/assets/f6843f3f-9c08-4526-b120-367fec72bd7a" /># Event-Driven Architecture
-
-## What Is an Event-Driven System?
+# What Is an Event-Driven System?
 
 > An **event-driven system** is an architecture where **components communicate through events**, not direct calls.
 
@@ -147,7 +145,7 @@ consumer.subscribe("orders", handle_event)
 
 -----
 
-# reference architecture diagram
+# Reference architecture diagram
 
 ## production-grade event-driven system using Kafka, Flink, microservices, observability
 
